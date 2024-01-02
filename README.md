@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A página de Título: Treine me foi feita estudando o módulo Explorer da RocketSeat. É o segundo exercício realizado por mim. Parte desse projeto foi feito a partir do estudo das tags semânticas.
 
-- [Acesse o projeto finalizado, online](https://viniciuszmota.github.io/Projeto-01-RS/)
+- [Acesse o projeto finalizado, online](https://viniciuszmota.github.io/Projeto-02-RS/)
 
 ---
 
